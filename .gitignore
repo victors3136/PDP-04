@@ -1,0 +1,6 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+Lab04-FuturesAndContinuations.sln.DotSettings.user
